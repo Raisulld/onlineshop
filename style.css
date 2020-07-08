@@ -1,0 +1,42 @@
+.carousel-item{
+     padding: 20px 40px ;
+}
+
+.og-background{
+    background-color: #fceae8;
+}
+.cat1{
+    background-color: rgba(255, 174, 0, 0.973);
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: orchid;
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blue;
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color:white;
+}
+.categories img{
+    width:100px;
+}
+.borderr{
+    border-radius: 10px;
+    box-shadow: 5px 5px ;
+}
+.card{
+    border:none;
+    box-shadow: 10px 5px 10px lightgrey;
+}
+.position{
+    padding-left: 12px;
+}
+.lol{
+    text-align: center;
+}
